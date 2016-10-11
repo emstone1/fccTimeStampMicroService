@@ -6,6 +6,7 @@
     "start": "node server.js"
   },
   "dependencies": {
+    "datejs": "^1.0.0-rc3",
     "express": "~4.9.8"
   }
 }
